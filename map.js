@@ -102,7 +102,7 @@ let data = [
         reference:'4',
         name: '<img src="https://sandrafarms.com/wp-content/uploads/2019/02/sandraphoto2b.jpg"/><br>Sandra Farms',
         content: 'Municipality: Adjuntas',
-        note: 'Note: Use modern and ecologically sound methods in green bean production, Uphold Fair Trade standards and meet U.S. requirements for employees <a href=\"https://sandrafarms.com/\" target=\"_blank\" title=\"Opens in a new window\">Link</a>',
+        note: 'Note: Use modern and ecologically sound methods in green <br>bean production, Uphold Fair Trade standards and meet U.S. requirements for employees <a href=\"https://sandrafarms.com/\" target=\"_blank\" title=\"Opens in a new window\">Link</a>',
         produce: 'What they produce: Coffee'
     },
 
